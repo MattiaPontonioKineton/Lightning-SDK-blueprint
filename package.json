@@ -1,6 +1,6 @@
 {
-  "author": "Metrological, Bas van Meurs <b.van.meurs@metrological.com>",
-  "name": "Lightning-SDK-blueprint",
+  "author": "Kineton, Mattia Pontonio <mattia.pontonio@kineton.it>",
+  "name": "lightning-sdk-blueprint",
   "dependencies": {
     "wpe-lightning-sdk": "https://github.com/WebPlatformForEmbedded/Lightning-SDK.git"
   },
